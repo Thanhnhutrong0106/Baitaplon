@@ -48,3 +48,7 @@ Người chơi sẽ hóa thân vào vai một trong những nhân vật ở th�
 * Hướng dẫn làm game của Phát triển phần mềm 123az.com
 * Tựa game Dino in Jungle, SwordX của anh chị khóa trên
 * Các trang web miễn phí về đồ họa như Crapix, Itch.io,....
+### Liên hệ
+Facebook: https://www.facebook.com/trong.thanh.0106/
+Github: Thanhnhutrong0106
+Email: thanhnhutrong@gmail.com
