@@ -56,8 +56,8 @@ Mở VS2022, chọn Open Project, mở file ProjectNewSdl.sln từ file đã t�
 * Tự thiết kế đồ họa cho game (có sử dụng ý tưởng sẵn có trên các web như Crapix, itch.io,...)
 * Thiết kế map, nhân vật đa dạng, có thể thay đổi
 ### Tham khảo
-* Hướng dẫn làm game của Codegrapher
-* Hướng dẫn làm game của Phát triển phần mềm 123az.com
+* [Hướng dẫn làm game của Codegrapher](https://www.youtube.com/watch?v=KsG6dJlLBDw&list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS)
+* [Hướng dẫn làm game của Phát triển phần mềm 123az.com](https://www.youtube.com/watch?v=k1JGvJU707k&list=PLR7NDiX0QsfQQ2iFXsXepwH46wf3D4Y4C)
 * Tựa game Dino in Jungle, SwordX của anh chị khóa trên
 * Các trang web miễn phí về đồ họa như Crapix, Itch.io,....
 ### Liên hệ
