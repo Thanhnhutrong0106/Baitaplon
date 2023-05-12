@@ -20,21 +20,33 @@ Vào google gõ VS2022 và tải về bản mới nhất, cài đặt lên máy 
 Mở VS2022, chọn Open Project, mở file ProjectNewSdl.sln từ file đã tải về
 ## Mô tả chung về trò chơi
 ### Thể loại: Game đi ải, platformer
-Game sinh tồn phiêu lưu trong thế giới 2D, lấy ý tưởng từ tựa game nổi tiếng Contra
-Người chơi sẽ hóa thân vào vai một trong những nhân vật ở thế giới Fantasy, trên đường khám phá những thế giới mới
+* ![image](https://github.com/Thanhnhutrong0106/Baitaplon/assets/126070350/7f0f5d11-387b-4b95-ba1d-ef591a02a5f1)
+
+* Game sinh tồn phiêu lưu trong thế giới 2D, lấy ý tưởng từ tựa game nổi tiếng Contra
+* Người chơi sẽ hóa thân vào vai một trong những nhân vật ở thế giới Fantasy, trên đường khám phá những thế giới mới
+
 ### Các chức năng của trò chơi
 * Điều khiển nhân vật bằng các phím a, d để di chuyển sang trái và phải
 * Sử dụng nút phải chuột để bắn ra quả cầu ma thuật, nút trái chuột để nhảy di chuyển và tránh các chướng ngại
+* Sử dụng các button chức năng như pause, quit
+* ![image](https://github.com/Thanhnhutrong0106/Baitaplon/assets/126070350/22f681e7-32c3-4c6c-9ec8-d32a4df4351e)
 * Quái vật sẽ tự đuổi người chơi trong phạm vi tấn công, đồng thời sẽ bắn đạn khi người chơi ở trong tầm ngắm của quái
 * Chèn âm thanh vào các button
 * Được phép chọn nhân vật, chọn Map tăng hứng thú cho người chơi
 * Ghi điểm, được hiện ở thanh menu phía trên màn hình
+* Khi kết thức trò chơi, ta có thể chơi lại hoặc thoát về menu ban đầu ![image](https://github.com/Thanhnhutrong0106/Baitaplon/assets/126070350/adeabedc-70f1-4720-9e5e-ccef2fead2de)
+
+
 ### Các kỹ thuật lập trình được sử dụng
 * Sử dụng thư viện đồ họa SDL2
 * Lập trình hướng đối tượng (class) dùng để tạo các đối tượng riêng biệt thực hiện các chức năng của trò chơi
 * Sử dụng các kỹ năng cơ bản như Tile Map, kiểm tra va chạm, xử lí animation, frame,.... Ngoài ra em còn tự tìm hiểu và phát triển thêm thuật toán giúp quái tự di chuyển, bắn đạn khi nhân vật trong tầm ngắm
 * Biến/kiểu dữ liệu/con trỏ/cấp phát động dùng trong các hàm trong thư viện
 * Danh sách/nhiều đối tượng
+* Cho phép lựa chọn nhân vật, lựa chọn map, tăng hấp dẫn cho trò chơi ![image](https://github.com/Thanhnhutrong0106/Baitaplon/assets/126070350/33a0a974-6056-4c86-9456-5216bd9e84b2)
+![image](https://github.com/Thanhnhutrong0106/Baitaplon/assets/126070350/41d956d5-5144-4103-8834-0751e0d02f69)
+
+
 ### Hỗ trợ
 * Sử dụng các phần mềm edit để vẽ ảnh nhân vật như PhotoShop, Canva
 * Sử dụng phần mềm để tạo map tương đối rộng và đa dạng: Tiled
